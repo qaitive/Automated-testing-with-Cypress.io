@@ -8,8 +8,8 @@
 
  * clone this repository
 
- * from command line inside folder where you cloned this repository, run this command: npm install
+ * from command line inside folder where you cloned this repository, run this command: *npm install*
 
- * to run Cypress do this: npx cypress open
+ * to run Cypress do this: *npx cypress open*
 
- * Inside cypress, click on initialTest.spec.js to run test in it.
+ * Inside cypress, click on *initialTest.spec.js* to run test in it.
