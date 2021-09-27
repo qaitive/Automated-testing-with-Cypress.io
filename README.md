@@ -2,5 +2,6 @@
 
 ## Prerequisites:
 
-Node.js 12 or above installed
-NPM module installed
+ - Node.js 12 or above installed
+
+ - NPM module installed
