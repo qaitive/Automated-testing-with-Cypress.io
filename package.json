@@ -1,0 +1,23 @@
+{
+  "name": "automated-testing-with-cypress.io",
+  "version": "1.0.0",
+  "description": "- Node.js 12 or above installed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qaitive/Automated-testing-with-Cypress.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qaitive/Automated-testing-with-Cypress.io/issues"
+  },
+  "homepage": "https://github.com/qaitive/Automated-testing-with-Cypress.io#readme",
+  "devDependencies": {
+    "cypress": "^8.4.1"
+  }
+}
