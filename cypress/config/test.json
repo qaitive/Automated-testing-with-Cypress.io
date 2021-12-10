@@ -1,0 +1,14 @@
+{
+    "env": {
+        "users": {
+            "user": {
+                "email": "",
+                "password": ""
+            },
+            "agent": {
+                "email": "",
+                "password": ""
+            }
+        }
+    }
+}
