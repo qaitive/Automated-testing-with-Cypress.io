@@ -12,4 +12,4 @@
 
  * to run Cypress do this: *npx cypress open*
 
- * Inside cypress, click on *initialTest.spec.js* to run test in it.
+ * Inside cypress runner, click on *initialTest.spec.js* to run test in it.
