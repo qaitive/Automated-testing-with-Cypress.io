@@ -8,6 +8,7 @@ describe("Initial Test suite", () => {
         cy.login(user)
         cy.get('.breadcrumb-content > .section-heading > .sec__title')
           .contains('Hi, Demo Welcome Back')
+        cy.logout()
     })
 
     it("Initial Agent test case", () => {
@@ -15,5 +16,6 @@ describe("Initial Test suite", () => {
         cy.login(agent)
         cy.get('.breadcrumb-content > .section-heading > .sec__title')
           .contains('Hi, Demo Welcome Back')
+        cy.logout()
     })
 })
